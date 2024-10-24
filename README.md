@@ -58,8 +58,6 @@
   <li><strong>Framework:</strong> Flask (Backend), Bootstrap (Frontend)</li>
 </ul>
 
-<h2>🎥 Project Tour</h2>
-<p>You can watch the video walkthrough of the project here: <strong>Group2_MiniProject_Sem6.mp4</strong> (Make sure to provide a link to the video if available online).</p>
 
 <h2>💡 Features</h2>
 <ul>
