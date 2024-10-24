@@ -1,53 +1,70 @@
-<h2>🌿 Potato Disease Classifier Web App</h2>
-📖 About
-The Potato Disease Classifier is a web application designed to help farmers easily detect and classify diseases in potato plants using an image of the plant's leaf. By leveraging Convolutional Neural Networks (CNNs), the app can analyze leaf images and provide predictions on potential diseases, empowering farmers with quick and reliable feedback.
+<h1>🌿 Potato Disease Classifier Web App</h1>
 
-🚀 How to Run
-Follow these steps to get the project running on your local machine:
+<h2>📖 About</h2>
+<p>
+  The <strong>Potato Disease Classifier</strong> is a web application designed to help farmers easily detect and classify diseases in potato plants using an image of the plant's leaf. By leveraging <strong>Convolutional Neural Networks (CNNs)</strong>, the app can analyze leaf images and provide predictions on potential diseases, empowering farmers with quick and reliable feedback.
+</p>
 
-Clone or Download the Repository
+<h2>🚀 How to Run</h2>
+<p>Follow these steps to get the project running on your local machine:</p>
 
-```git clone https://github.com/your-username/Potato-Disease-Classification.git```
+<ol>
+  <li><strong>Clone or Download the Repository</strong></li>
+  <pre>
+    <code>git clone https://github.com/your-username/Potato-Disease-Classification.git</code>
+  </pre>
+  <p>Or, download the ZIP file and extract it.</p>
 
+  <li><strong>Navigate to the Project Directory</strong></li>
+  <p>Open a terminal or command prompt and change the directory:</p>
+  <pre>
+    <code>cd Potato-Disease-Classification</code>
+  </pre>
 
-Or, download the ZIP file and extract it.
+  <li><strong>Install Required Dependencies</strong></li>
+  <p>Use the pip command to install all necessary packages:</p>
+  <pre>
+    <code>pip install -r requirements.txt</code>
+  </pre>
 
-Navigate to the Project Directory Open a terminal or command prompt and change the directory:
+  <li><strong>Run the Application</strong></li>
+  <p>Start the web app by running:</p>
+  <pre>
+    <code>python app.py</code>
+  </pre>
+  <p>The application will run locally on <a href="http://127.0.0.1:5000/">http://127.0.0.1:5000/</a>.</p>
+</ol>
 
-bash
-Copy code
-cd Potato-Disease-Classification
-Install Required Dependencies Use the pip command to install all necessary packages:
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+  <li>Python 3.7</li>
+  <li>Flask - Web framework for Python</li>
+  <li>TensorFlow 2.6 - For deep learning models</li>
+  <li>NumPy - For numerical operations</li>
+  <li>Matplotlib - For data visualization</li>
+  <li>HTML, CSS, Bootstrap - For frontend development</li>
+</ul>
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Application Start the web app by running:
+<h2>🖥️ Web Pages Overview</h2>
+<ul>
+  <li><strong>Home Page (home):</strong> The landing page of the application.</li>
+  <li><strong>About Page (about):</strong> Provides an overview of the project and its purpose.</li>
+  <li><strong>Result Page (res):</strong> Displays the disease classification result after an image is uploaded.</li>
+</ul>
 
-bash
-Copy code
-python app.py
-The application will run locally on http://127.0.0.1:5000/.
+<h2>🧑‍💻 Development Environment</h2>
+<ul>
+  <li><strong>IDE:</strong> Visual Studio Code</li>
+  <li><strong>Framework:</strong> Flask (Backend), Bootstrap (Frontend)</li>
+</ul>
 
-🛠️ Tools & Technologies
-Python 3.7
-Flask - Web framework for Python
-TensorFlow 2.6 - For deep learning models
-NumPy - For numerical operations
-Matplotlib - For data visualization
-HTML, CSS, Bootstrap - For frontend development
-🖥️ Web Pages Overview
-Home Page (home): The landing page of the application.
-About Page (about): Provides an overview of the project and its purpose.
-Result Page (res): Displays the disease classification result after an image is uploaded.
-🧑‍💻 Development Environment
-IDE: Visual Studio Code
-Framework: Flask (Backend), Bootstrap (Frontend)
-🎥 Project Tour
-You can watch the video walkthrough of the project here: Group2_MiniProject_Sem6.mp4 (Make sure to provide a link to the video if available online).
+<h2>🎥 Project Tour</h2>
+<p>You can watch the video walkthrough of the project here: <strong>Group2_MiniProject_Sem6.mp4</strong> (Make sure to provide a link to the video if available online).</p>
 
-💡 Features
-Upload a potato leaf image.
-Get an instant disease diagnosis.
-Easy-to-use web interface.
-Visualize leaf image with prediction results.
+<h2>💡 Features</h2>
+<ul>
+  <li>Upload a potato leaf image.</li>
+  <li>Get an instant disease diagnosis.</li>
+  <li>Easy-to-use web interface.</li>
+  <li>Visualize leaf image with prediction results.</li>
+</ul>
