@@ -1,4 +1,4 @@
-🌿 Potato Disease Classifier Web App
+<h2>🌿 Potato Disease Classifier Web App</h2>
 📖 About
 The Potato Disease Classifier is a web application designed to help farmers easily detect and classify diseases in potato plants using an image of the plant's leaf. By leveraging Convolutional Neural Networks (CNNs), the app can analyze leaf images and provide predictions on potential diseases, empowering farmers with quick and reliable feedback.
 
