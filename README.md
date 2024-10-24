@@ -11,7 +11,7 @@
 <ol>
   <li><strong>Clone or Download the Repository</strong></li>
   <pre>
-    <code>git clone https://github.com/your-username/Potato-Disease-Classification.git</code>
+    <code>https://github.com/mohdaameen/PotatoDisease.git</code>
   </pre>
   <p>Or, download the ZIP file and extract it.</p>
 
@@ -30,7 +30,7 @@
   <li><strong>Run the Application</strong></li>
   <p>Start the web app by running:</p>
   <pre>
-    <code>python app.py</code>
+    <code>python main.py</code>
   </pre>
   <p>The application will run locally on <a href="http://127.0.0.1:5000/">http://127.0.0.1:5000/</a>.</p>
 </ol>
