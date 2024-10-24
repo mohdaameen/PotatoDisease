@@ -7,7 +7,9 @@ Follow these steps to get the project running on your local machine:
 
 Clone or Download the Repository
 
-`git clone https://github.com/your-username/Potato-Disease-Classification.git`
+```git clone https://github.com/your-username/Potato-Disease-Classification.git```
+
+
 Or, download the ZIP file and extract it.
 
 Navigate to the Project Directory Open a terminal or command prompt and change the directory:
